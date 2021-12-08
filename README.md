@@ -24,4 +24,4 @@ Lyrical Trivia is a self-scoring trivia game based on song lyrics from some of t
 
 ### Wireframe
 
-![Lyrial Trivia Game](./assets/wireframe.jpg)
+![Lyrial Trivia Game](assets\wireframe.jpg)
